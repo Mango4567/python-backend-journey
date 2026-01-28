@@ -17,6 +17,15 @@ salary_usd=(hrs*rate_perhour*days)
 print("monthly salary of the employee in USD is:",salary_usd)
 #length comparison
 print(len('python') > len('dragon'))
+# basic operations
+a+b #addition
+a-b #subtarction
+a*b #multiplication
+a**b #exponent
+a%b #modulous - returns remainder
+a//b #floor division - returns quotient without the decimal part
+a[>,<,>=,<=]b # comparison operators
+a and or not b # logical operators 
 
 
          
